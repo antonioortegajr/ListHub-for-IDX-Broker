@@ -4,7 +4,7 @@ Standard Disclaimer: This code is not official IDX Broker code. In NO WAY is it 
 
 Standard Disclaimer #2: This code is not official ListHub code. In NO WAY is it supported by ListHub. DO NOT contact ListHub for any support of this code.
 
-This script is for Use with IDX Broker and ListHub
+This script is for use with IDX Broker and ListHub
 
 It is based on these docs: https://app.listhub.com/tracking-docs/v3/listing-metrics-js.html
 
@@ -14,6 +14,6 @@ Replace METRICS_PROVIDER_ID with the metrics provider id identified in the email
 
 Replace TEST with either true or false to determine whether events being reported will be made available on the ListHub reports from this page. This can be used to distinguish events submitted from QA and Production environments.
 
-Place the script in a IDX Broker Details page wrapper or subheader.
+Place the script in an IDX Broker Details page wrapper.
 
 **I have yet to verify this actually works as I do not have a ListHub account**
